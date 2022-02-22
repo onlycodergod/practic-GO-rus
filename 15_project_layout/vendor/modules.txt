@@ -1,0 +1,3 @@
+# github.com/huandu/xstrings v1.3.2
+## explicit
+github.com/huandu/xstrings
